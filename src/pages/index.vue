@@ -94,7 +94,7 @@ function confirmDelete() {
                         class="mb-4 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-sm font-medium text-primary"
                     >
                         <UIcon name="i-lucide-plane" class="size-4" />
-                        Vue 3 · Pinia · localStorage
+                        Місця · чекліст · статистика
                     </div>
                 </template>
             </UPageHero>
