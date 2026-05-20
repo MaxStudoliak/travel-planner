@@ -20,7 +20,7 @@ export const TRIP_STATUS_META: Record<
     label: 'Завершена',
     color: 'neutral',
     stripe: 'bg-neutral-400 dark:bg-neutral-500',
-    icon: 'i-lucide-badge-check'
+    icon: 'i-lucide-circle-check'
   }
 }
 
